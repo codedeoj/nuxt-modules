@@ -1,42 +1,18 @@
-# Nuxt 3 Minimal Starter
+# cpnt-262-achievements-round-3b
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+**Course title:** CPNT 262
 
-## Setup
+**Assignment name:** Nuxt Modules
 
-Make sure to install the dependencies:
+**Author:** Deoj Balcanao
 
-```bash
-# yarn
-yarn install
+## Notes
+**I added a nuxt icon to the navigation bar**
+- see line 4 TheNav.vue
 
-# npm
-npm install
+## Attributions
+**Nuxt Icon** - https://nuxt.com/modules/icon
 
-# pnpm
-pnpm install --shamefully-hoist
-```
+**Icones Collection** - https://icones.js.org/
 
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+**Xbox Icon** - https://icones.js.org/collection/cib?s=xbox
