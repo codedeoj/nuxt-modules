@@ -7,6 +7,13 @@
 **Author:** Deoj Balcanao
 
 ## Notes
+**Nuxt Icon allows you to use icons in your component. It has 100,000+ ready to use icons.**
+
+**Setup**
+- I install the module using <code>npm --save-dev nuxt-icon</code>.
+- And then I add <code>'nuxt-icon'</code> to the config file.
+- I also install Iconify IntelliSense extension on VS Code for some font highlighting.
+
 **I added a nuxt icon to the navigation bar**
 - see line 4 TheNav.vue
 
